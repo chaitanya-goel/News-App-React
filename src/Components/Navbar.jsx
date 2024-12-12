@@ -33,7 +33,7 @@ const Navbar = ({ setCategory, activeCategory }) => {
           </ul>
         </div>
       </div>
-    </nav>
+    </nav> 
   );
 };
 
